@@ -1,0 +1,13 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+*.lnk
+*.pdf
+*.url
+*.zip
+*.exe
+*.pyc
+__pycache__/
+node_modules/
+.env
+
